@@ -1,0 +1,5 @@
+run
+~run
+println("will this work")
+help
+exit
